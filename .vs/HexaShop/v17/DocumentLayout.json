@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|solutionrelative:hexashop.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|solutionrelative:hexashop.core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|solutionrelative:hexashop.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.data\\migrations\\20240522211833_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|solutionrelative:hexashop.data\\migrations\\20240522211833_createuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|solutionrelative:hexashop.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|solutionrelative:hexashop.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|solutionrelative:hexashop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\exceptions\\imagefilenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\exceptions\\imagefilenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\hexashop.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\hexashop.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73B24A3-FE60-4FA4-8783-D50969622147}|HexaShop.Business\\HexaShop.Business.csproj|solutionrelative:hexashop.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A70D5E3F-6F91-47AF-8938-CA4F0CE26E89}|HexaShop\\HexaShop.csproj|solutionrelative:hexashop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|solutionrelative:hexashop.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE7686-7E5F-464E-850D-F83684F77CFA}|HexaShop.Core\\HexaShop.Core.csproj|solutionrelative:hexashop.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|c:\\users\\sirac huseynov\\desktop\\unitekrar\\hexashop\\hexashop.data\\migrations\\20240522201610_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5093C1D-DACA-4F10-9794-0FC07983BCAD}|HexaShop.Data\\HexaShop.Data.csproj|solutionrelative:hexashop.data\\migrations\\20240522201610_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:40:49.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HexaShop.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeToolTip": "HexaShop.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:09:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "HexaShop.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "HexaShop.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:13:18.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "HexaShop.Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:17:07.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "HexaShop.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:18:25.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:41:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAIAwwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:35:56.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:36:11.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "HexaShop.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "HexaShop.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:08:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:35:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Program.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Program.cs",
+              "RelativeToolTip": "HexaShop\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:13:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HexaShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:58:12.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HexaShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T22:01:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HexaShop\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wGkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:48:27.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowFMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:21:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "HexaShop\\ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "HexaShop\\ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:20:28.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "HexaShop\\ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "HexaShop\\ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:45:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HexaShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T21:48:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T21:31:13.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\MemberLoginVm.cs",
+              "RelativeDocumentMoniker": "HexaShop\\ViewModels\\MemberLoginVm.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ViewModels\\MemberLoginVm.cs",
+              "RelativeToolTip": "HexaShop\\ViewModels\\MemberLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:45:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:47:04.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:53:35.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:56:56.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HexaShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HexaShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:57:50.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "HexaShop.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "HexaShop.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:17:10.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240522211833_CreateUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\Migrations\\20240522211833_CreateUsersTable.cs",
+              "RelativeDocumentMoniker": "HexaShop.Data\\Migrations\\20240522211833_CreateUsersTable.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\Migrations\\20240522211833_CreateUsersTable.cs",
+              "RelativeToolTip": "HexaShop.Data\\Migrations\\20240522211833_CreateUsersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:18:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "HexaShop.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:20:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HexaShop.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "HexaShop.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:09:58.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HexaShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAcwAsBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:58:02.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAABkBAAAAAAAAAAAcwCUBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:36:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HexaShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T20:36:21.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HexaShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HexaShop\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T20:34:53.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HexaShop.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\Product.cs",
+              "RelativeToolTip": "HexaShop.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:06:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "HexaShop.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:29:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ImageFileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\ImageFileNotFoundException.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Exceptions\\ImageFileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\ImageFileNotFoundException.cs",
+              "RelativeToolTip": "HexaShop.Business\\Exceptions\\ImageFileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:27:44.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HexaShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HexaShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:58:20.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FileeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeToolTip": "HexaShop.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:25:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "HexaShop.Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:22:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "HexaShop.Business\\Exceptions\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeToolTip": "HexaShop.Business\\Exceptions\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:21:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240522201610_CreateProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\Migrations\\20240522201610_CreateProductTable.cs",
+              "RelativeDocumentMoniker": "HexaShop.Data\\Migrations\\20240522201610_CreateProductTable.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\Migrations\\20240522201610_CreateProductTable.cs",
+              "RelativeToolTip": "HexaShop.Data\\Migrations\\20240522201610_CreateProductTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:16:10.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HexaShop.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\HexaShop.Business.csproj",
+              "RelativeDocumentMoniker": "HexaShop.Business\\HexaShop.Business.csproj",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Business\\HexaShop.Business.csproj",
+              "RelativeToolTip": "HexaShop.Business\\HexaShop.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T20:04:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\appsettings.json",
+              "RelativeDocumentMoniker": "HexaShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop\\appsettings.json",
+              "RelativeToolTip": "HexaShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T20:14:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "HexaShop.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "HexaShop.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:11:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HexaShop.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\UniTekrar\\HexaShop\\HexaShop.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "HexaShop.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:06:05.98Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

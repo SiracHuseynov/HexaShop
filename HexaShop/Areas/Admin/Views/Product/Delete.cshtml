@@ -1,0 +1,21 @@
+﻿@using HexaShop.Core.Models
+@model Product
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <form method="post" asp-action="DeletePost">
+                <div class="card" style="width: 18rem;">
+                    <img src="~/uploads/products/@Model.ImageUrl" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Title</h5>
+                        <p class="card-text">@Model.Price</p>
+                        <input asp-for="@Model.Id" hidden value="@Model.Id"/> 
+                        <a asp-action="Index" class="btn btn-info">Go Back</a>
+                        <button type="submit" class="btn btn-danger">Delete</button> 
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

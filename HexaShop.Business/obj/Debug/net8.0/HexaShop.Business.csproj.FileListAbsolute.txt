@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Business.deps.json
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Core.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Data.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Data.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\bin\Debug\net8.0\HexaShop.Core.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.C9FF69DD.Up2Date
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\refint\HexaShop.Business.dll
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\HexaShop.Business.pdb
+C:\Users\Sirac Huseynov\Desktop\UniTekrar\HexaShop\HexaShop.Business\obj\Debug\net8.0\ref\HexaShop.Business.dll
